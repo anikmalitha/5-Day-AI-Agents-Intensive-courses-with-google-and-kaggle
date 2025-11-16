@@ -1,0 +1,27 @@
+# Core Python libraries for AI Agent Development
+langchain>=0.2.0
+langgraph>=0.0.10
+google-adk>=0.1.0
+openai>=1.0.0
+
+# Observability & Evaluation
+langsmith>=0.1.0
+wandb>=0.17.0
+
+# Data & Storage
+sqlite3-binary>=0.0.1
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization & Debugging
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter & Notebook Support
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
